@@ -2,7 +2,7 @@
 Repository for application to CM developer internship
 
 ## Work/Project examples
-1. Project for my final presentation in my Web Developer course at SAIT.  It uses HTML, CSS, JavaScript and PHP and includes photos taken and edited by me. https://fluffy-friends.herokuapp.com/index.php
+1. Project for my final presentation in my Web Developer course at SAIT.  It uses HTML, CSS, JavaScript and PHP and includes photos taken and edited by me.  This has a personal connection to me because I was inspired by the animals at the shelter where I volunteer.  All the animals on this site were once available for adoption and I took photographs of them. https://fluffy-friends.herokuapp.com/index.php
 2. Website completed during my 8 week practicum to complete my SAIT certificate.  Used Shopify and I mainly worked on changing the colours and layout of the website, as well as adding photos.  Some text and images change periodically but the biggest changes, such as drop down menus, colour themes and layout of the different categories were all created by me.  I also added tags to the site, which had not been there previously and made a big difference in the UI and UX of the site, as it made it much easier to narrow down searches for specific products.  https://castletoys.ca/
 3. Personal project to brush up my skills, features images found on Google but edited to fit in GIMP.  Touches on some things I'm passionate about and the use of CSS and PNG images I think makes it look interesting and professional. *add site when finished*
 
