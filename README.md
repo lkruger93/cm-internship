@@ -15,3 +15,5 @@ Repository for application to CM developer internship
 Given the opportunity, I would love to use my time learning and building responsive and easy-to-use mobile and web applications, as I know those are more important than ever today.  I would also like to have the opportunity to explore using some of the features of game development to gamify both new and existing projects to make them easier for users and clients to learn how to use.  For both these things I would also like to get to become proficient in the design aspect of development, because that is a very important part of both of these projects.
 
 ## Code challenge
+https://codesandbox.io/embed/2021-internship-exercise-menu-forked-5spbd?fontsize=14&hidenavigation=1&theme=dark
+
